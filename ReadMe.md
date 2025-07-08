@@ -1,9 +1,15 @@
 Hello World, I'm Aditya 👋
+
 A tech enthusiast passionate about building AI-driven solutions, solving real-world problems, and creating products that make an impact.
+
 ~I am a final-year engineering student with a strong passion for solving real-world problems using AI, data, and product innovation.
+
 ~I have led and built end-to-end projects in domains such as autonomous drones, machine learning, and browser automation.
+
 ~My work reflects a solid understanding of business needs, data-driven thinking, and technical implementation.
+
 ~I thrive in fast-paced environments, adapt quickly, and focus on building solutions that create measurable impact.
+
 ~I am actively looking for opportunities in business analysis, data science, or AI/ML roles where I can contribute and grow.
 
 
